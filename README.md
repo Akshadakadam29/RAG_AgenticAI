@@ -1,2 +1,2 @@
-# RAG_AgenticAI
+# RAG
 Implementation of RAG
